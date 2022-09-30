@@ -1,3 +1,2 @@
-My first readme
-Update README
-Another update 
+Im growing to be a software engineer
+
